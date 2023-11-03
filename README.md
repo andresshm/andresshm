@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andresshm
-- 👀 I’m interested in programing, learning and achieving new goals.
+- 👀 I’m interested in programming, learning and achieving new goals.
 - 🌱 I’m currently looking for a internship period next summer
 - 📫 How to reach me:
    -email: andreshrtd07@gmail.com
